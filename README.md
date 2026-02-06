@@ -10,10 +10,9 @@ Create a `.npmrc` file in your project root or home directory:
 
 ```
 @machbase:registry=https://npm.pkg.github.com
-//npm.pkg.github.com/:_authToken=YOUR_GITHUB_TOKEN
 ```
 
-> **Note**: Replace `YOUR_GITHUB_TOKEN` with a GitHub Personal Access Token that has `read:packages` permission.
+> **Note**: This package is public. No authentication token is required for installation.
 
 ### 2. Install package
 

@@ -21,6 +21,8 @@
   },
   "homepage": "https://github.com/machbase/npm-pkg-test#readme",
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com"
-  }
+    "registry": "https://npm.pkg.github.com",
+    "access": "public"
+  },
+  "private": false
 }
